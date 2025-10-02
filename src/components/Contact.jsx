@@ -34,7 +34,7 @@ const Contact = () => {
                   <div>
                     <span className="info-title">ADDRESS POINT</span>
                     <p>
-                      123 Stree New York City, United States Of America 750065.
+                      Cool place.
                     </p>
                   </div>
                 </div>
@@ -43,7 +43,7 @@ const Contact = () => {
                   <FaEnvelope className="info-icon" />
                   <div>
                     <span className="info-title">MAIL ME</span>
-                    <p>steve@mail.com</p>
+                    <p>cooldude@mail.com</p>
                   </div>
                 </div>
 
@@ -51,7 +51,7 @@ const Contact = () => {
                   <FaPhone className="info-icon" />
                   <div>
                     <span className="info-title">CALL ME</span>
-                    <p>+216 21 184 010</p>
+                    <p>+911234567890</p>
                   </div>
                 </div>
               </div>
